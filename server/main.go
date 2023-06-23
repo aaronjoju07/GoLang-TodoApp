@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-toda-app/router"
+	"github.com/aaronjoju07/go-toda-app/router"
 	"log"
 	"net/http"
 )
